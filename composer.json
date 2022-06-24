@@ -16,7 +16,12 @@
         "nesbot/carbon": "^1.22",
         "doctrine/dbal": "2.5.11",
         "google/recaptcha": "~1.1",
-        "symfony/http-foundation": "2.7.51"
+        "symfony/http-foundation": "2.7.51",
+        "fzaninotto/faker": "~1.0",
+        "phpunit/phpunit": "^5.2",
+        "predis/predis":"~1.0",
+        "illuminate/redis":"5.1.*",
+        "symfony/css-selector": "^3.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.0",
